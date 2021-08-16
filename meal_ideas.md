@@ -21,3 +21,13 @@
 - Quesadillas
 - Fried Chicken
 - Meatloaf
+- Chicken and potatoes
+- Tonkotsu Ramen
+- Baked oatmeal
+- Lasagna
+
+## Sides
+- Garden salad
+- Green beans
+- Asparagus
+- Mashed potatoes
